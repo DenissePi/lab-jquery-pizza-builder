@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Write your Pizza Builder JavaScript in this file.
 let btnPepperonni = document.querySelector('.btn-pepperonni')
 let btnMushrooms = document.querySelector('.btn-mushrooms')
@@ -91,3 +92,6 @@ btnCrust.onclick = function() {
 }
 btnSauce.click()
 btnCrust.click()
+=======
+// Write your Pizza Builder JavaScript in this file.
+>>>>>>> 926e250bd19dd31e6970fefd496752cb467ef395
